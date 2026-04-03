@@ -84,8 +84,3 @@ Server-Sent Events are ideal for:
 - Automatic reconnection
 - No need for external libraries
 - One-way communication (server to client) is built-in
-
-## License
-
-MIT
-
