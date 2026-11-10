@@ -62,12 +62,6 @@ Multiple lines can be used for different event types:
 - `id:` - Event ID for reconnection
 - `retry:` - Reconnection timeout in milliseconds
 
-## Browser Support
-
-- Chrome/Edge: Full support
-- Firefox: Full support
-- Safari: Full support (since Safari 4)
-
 ## Use Cases
 
 Server-Sent Events are ideal for:
